@@ -8,7 +8,7 @@
 
 - Enlace video explicativo datawarehouse: https://www.youtube.com/watch?v=IoUcdnGCpOY
 
-- Enlace video dashboards explicativos: 
+- Enlace video dashboards explicativos: https://www.youtube.com/watch?v=dDJnu9vqap4
 
 ESQUEMA DE DATAWARE HOUSE
 
