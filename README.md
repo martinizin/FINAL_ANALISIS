@@ -6,6 +6,10 @@
 - Valenzuela Jared
 - Yepez Joseph
 
+- Enlace video explicativo datawarehouse: https://www.youtube.com/watch?v=IoUcdnGCpOY
+
+- Enlace video dashboards explicativos: 
+
 ESQUEMA DE DATAWARE HOUSE
 
 ![image](https://github.com/martinizin/FINAL_ANALISIS/assets/117743846/665d5a7f-45bb-413c-b098-d29175828816)
