@@ -166,6 +166,9 @@ las bibliotecas de Pandas y PyMongo, y puede ser útil cuando se desea transferi
 
 archivos CSV a una base de datos NoSQL como MongoDB.
 
+![image](https://github.com/martinizin/FINAL_ANALISIS/assets/117743484/3e1f047e-6b14-4db8-8e22-bbf6178f3dd5)
+
+
 # Envío de json a RavenDB
 
 ### Temática: Accidentes de tránsito
